@@ -1,0 +1,117 @@
+.title{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.sub-headings{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.input-box{
+    width: 100%;
+    text-align: center;
+   
+}
+
+.input{
+    width:30%;
+    /* margin: 5px; */
+    font-size: 16px;
+    padding: 5px;
+    margin-right: 10px;
+    margin-top: 2px;
+    font-weight: 400;
+   
+}
+
+.input-category{
+    font-size: 16px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.input-priority{
+    font-size: 16px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.input-dueDate{
+    font-size: 14px;
+    padding: 5px;
+    font-weight: 550;
+    margin-right: 10px;
+}
+
+.btn-1{
+    width: 10%;
+    height: 35px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin-left: 10px;
+}
+
+
+.list{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 15px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.Show-list{
+    width: 80%;
+}
+
+.filter-div{
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+}
+
+.list-btn{
+   display: flex;
+   justify-content: space-around;
+}
+
+.edit-btn{
+    margin-right: 5px;
+    background-color: aqua;
+}
+
+.delete-btn{
+    margin-left: 5px;
+    background-color: red;
+    color: white;
+}
+
+.save-btn{
+    background-color: beige;
+}
+
+.cancel-btn{
+    background-color: rgb(254, 87, 114);
+    color: white;
+}
+
+.below-header{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.all-categories{
+    background-color: rgb(232, 229, 229);
+}
+
+.all-priorities{
+    background-color: rgb(232, 229, 229);
+}
